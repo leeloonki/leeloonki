@@ -9,7 +9,7 @@ Hi, I'm leeloonki, a Pharmaceutical Engineering sophomore passionated about Prog
 
 - :computer: I’m currently learning C++, Data Sructure, UE4...
 
-- 📫 Mail address: [leeloonki9527@gmail.com](leeloonki9527@gmail.com)
+- 📫 Mail address: [leeloonki9527@gmail.com](mailto:hugogomes02@gmail.com)
 
 
 
