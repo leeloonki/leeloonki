@@ -4,7 +4,7 @@
 制药工程大二在读，编程兴趣浓厚，对游戏建模与开发感兴趣，在此上传一些自己的学习笔记，同时利用GitHub进行学习。
 
 
-Hello！, I'm leeloonki, a Pharmaceutical Engineering sophomore passionated about Programming and Game modeling & development.
+Hello！, I'm leeloonki, a Pharmaceutical Engineering sophomore, passionated about Programming and Game Modeling & Development.
 
 
 - :books: I’m currently studying on Luoyang(Henan).
