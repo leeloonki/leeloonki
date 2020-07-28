@@ -13,7 +13,7 @@ Hi, I'm leeloonki, a Pharmaceutical Engineering sophomore passionated about Prog
 
 - 📫 Mail address: [leeloonki9527@gmail.com](mailto:hugogomes02@gmail.com)
 
-- 🏠 Blog: [leeloonki's Blog](leeloonki.xyz)
+- 🏠 Blog: [leeloonki's Blog](https://leeloonki.xyz/)
 
 
 
