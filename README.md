@@ -13,7 +13,7 @@ Hello！, I'm leeloonki, a Pharmaceutical Engineering sophomore, passionated abo
 
 - 📫 Mail address: [leeloonki9527@gmail.com](mailto:hugogomes02@gmail.com)
 
-- 🏠 Blog: [leeloonki's Blog](https://leeloonki.xyz/)
+- 🏠 Blog: [leeloonki's Blog](https://amireux.top/)
 
 
 
