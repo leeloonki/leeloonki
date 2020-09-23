@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-~~制药工程~~物联网工程（iot）大二在读，对游戏建模与开发感兴趣。
+~~制药工程~~ 物联网工程（iot）大二在读，对游戏建模与开发感兴趣。
 
 
-Hello！, I'm leeloonki, a Pharmaceutical Engineering sophomore, passionated about Programming and Game Modeling & Development.
+Hello！I'm leeloonki, a Pharmaceutical Engineering sophomore, passionated about Programming and Game Modeling & Development.
 
 
 - :books: I’m currently studying on Luoyang(Henan).
