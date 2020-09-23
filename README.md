@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-制药工程大二在读，编程兴趣浓厚，对游戏建模与开发感兴趣，在此上传一些自己的学习笔记，同时利用GitHub进行学习。
+~~制药工程~~物联网工程（iot）大二在读，对游戏建模与开发感兴趣。
 
 
 Hello！, I'm leeloonki, a Pharmaceutical Engineering sophomore, passionated about Programming and Game Modeling & Development.
@@ -17,6 +17,6 @@ Hello！, I'm leeloonki, a Pharmaceutical Engineering sophomore, passionated abo
 
 
 
-- ⚡ Future plans: I determined to become a Computer graduate student and engaged in related work.
+- ⚡ Future plans: To become a Computer graduate student.
 
 ![小怪兽](https://github.com/leeloonki/leeloonki/blob/master/GIF/GIF.gif)
