@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-~~制药工程~~ 物联网工程（IoT engineering）大二在读，对游戏建模与开发感兴趣。
+物联网工程（IoT engineering）大二在读。
 
 
-Hello！I'm leeloonki, a Internet of Things sophomore, passionated about Programming and Game Modeling & Development.
+Hello！I'm leeloonki, a Internet of Things sophomore.
 
 
 - :books: I’m currently studying on Luoyang(Henan).
